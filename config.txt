@@ -1,0 +1,3 @@
+username=Zayden
+textColor=255,255,255
+saveDataToTXT=False
